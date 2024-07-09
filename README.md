@@ -19,7 +19,7 @@ Key Features:
 - Real-time messaging using Socket.io
 - Send attachments as messages using UploadThing
 - Delete & Edit messages in real time for all users
-- Create Text, Audio and Video call Channels
+- Text, Audio and Video call Channels
 - 1:1 conversation between members
 - 1:1 video calls between members
 - Member management (Kick, Role change Guest / Moderator)
